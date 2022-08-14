@@ -8,9 +8,15 @@ This project is built to imitate the behaviour from github api of finding the ma
 
 ## Screenshots 
 
+- Home Page
+
 ![Home Page](https://github.com/RishabhRathi-Dev/MajorLanguages/blob/main/screenshots/frontpage.jpg)
 
+- Result Page
+
 ![Result Page](https://github.com/RishabhRathi-Dev/MajorLanguages/blob/main/screenshots/resultpage.jpg)
+
+- Error Page
 
 ![Wrong Username Page](https://github.com/RishabhRathi-Dev/MajorLanguages/blob/main/screenshots/notfoundpage.jpg)
 

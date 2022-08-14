@@ -1,6 +1,6 @@
 # Major Languages 
 
-This project is built to imitate the behaiour from github api of finding the major languages used by a user profile, but instead of utilising github api it is done using web scraping.
+This project is built to imitate the behaviour from github api of finding the major languages used by a user profile, but instead of utilising github api it is done using web scraping.
 
 ## How to use:
 - Enter your GitHub username
